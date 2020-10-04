@@ -1,22 +1,22 @@
 {
-    "name": ":vendor_name/:package_name",
-    "description": ":package_description",
+    "name": "vortex-digital/laravel-package",
+    "description": "Simple authentication like it was before Jetstream and Fortify, and ready to go 🔥",
     "keywords": [
-        ":vendor_name",
-        ":package_name"
+        "vortex-digital",
+        "laravel-auth"
     ],
-    "homepage": "https://github.com/:vendor_name/:package_name",
+    "homepage": "https://github.com/vortex-digital/laravel-auth",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
-            "homepage": "https://spatie.be",
-            "role": "Developer"
+            "name": "sergeByishimo",
+            "email": "sergebyishimo@gmail.com",
+            "homepage": "https://serge.works",
+            "role": "Maintainer"
         }
     ],
     "require": {
-        "php": "^7.4",
+        "php": "^7.3",
         "illuminate/contracts": "^8.0"
     },
     "require-dev": {
