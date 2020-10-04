@@ -1,5 +1,5 @@
 {
-    "name": "vortex-digital/laravel-package",
+    "name": "vortex-digital/laravel-auth",
     "description": "Simple authentication like it was before Jetstream and Fortify, and ready to go 🔥",
     "keywords": [
         "vortex-digital",
