@@ -1,6 +1,6 @@
 # Simple Laravel Auth
 
-Simple laravel auth like it was before Jetstream and Fortify.
+Like it was before Jetstream and Fortify, everything was simple.
 
 ## License
 
