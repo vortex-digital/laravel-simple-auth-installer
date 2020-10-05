@@ -1,6 +1,7 @@
 {
     "name": "vortex-digital/laravel-simple-auth-installer",
     "description": "Simple authentication like it was before Jetstream and Fortify, and ready to go 🔥",
+    "version": "1.0.0",
     "keywords": [
         "vortex-digital",
         "laravel-simple-auth-installer"
