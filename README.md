@@ -1,9 +1,6 @@
 # Laravel Simple Auth Installer
 
-<a href="https://github.com/vortex-digital/laravel-simple-auth-installeractions"><img src="https://github.com/vortex-digital/laravel-simple-auth-installerworkflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/vortex-digital/laravel-simple-auth-installer"><img src="https://poser.pugx.org/laravel/installer/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/vortex-digital/laravel-simple-auth-installer"><img src="https://poser.pugx.org/laravel/installer/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/vortex-digital/laravel-simple-auth-installer"><img src="https://poser.pugx.org/laravel/installer/license.svg" alt="License"></a>
+Simple authentication like it was before Jetstream and Fortify, and automatically works with the latest laravel releases 🔥
 
 ## Documentation
 
