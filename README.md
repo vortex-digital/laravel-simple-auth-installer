@@ -1,6 +1,6 @@
 # Laravel Simple Auth Installer
 
-Simple authentication like it was before Jetstream and Fortify, and automatically works with the latest laravel releases 🔥
+Simple authentication scaffolding like it was before Jetstream and Fortify, and automatically works with the latest laravel releases 🔥
 
 ## Documentation
 
