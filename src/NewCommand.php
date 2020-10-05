@@ -62,7 +62,7 @@ class NewCommand extends Command
 | |     __ _ _ __ __ ___   _____| |
 | |    / _` | \'__/ _` \ \ / / _ \ |
 | |___| (_| | | | (_| |\ V /  __/ |
-|______\__,_|_|  \__,_| \_/ \___|_|   Simple</>' . PHP_EOL . PHP_EOL);
+|______\__,_|_|  \__,_| \_/ \___|_|   Simple Auth Scaffolding</>' . PHP_EOL . PHP_EOL);
         }
 
         sleep(1);
