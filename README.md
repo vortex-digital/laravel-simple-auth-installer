@@ -20,12 +20,12 @@ laravel-simple new foo
 
 laravel-simple new foo --auth
 
-laravel-simple new foo --vuew-auth
+laravel-simple new foo --vue-auth
 
 laravel-simple new foo --react-auth
 ```
 
-You can use install with [Laravel Jetstream](https://github.com/laravel/jetstream) as well,
+You can also install with [Laravel Jetstream](https://github.com/laravel/jetstream) as well.
 
 ## Contributing
 
