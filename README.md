@@ -24,6 +24,12 @@ laravel-simple new foo --react-auth
 
 You can also install with [Laravel Jetstream](https://github.com/laravel/jetstream) as well.
 
+```
+
+laravel-simple new foo --jet
+
+```
+
 ## Contributing
 
 Thank you for considering contributing to the Installer!
